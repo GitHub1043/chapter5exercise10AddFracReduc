@@ -9,6 +9,8 @@
 #include <iostream>
 using namespace std;
 
+// PROGRAM NOT FINISHED
+
 void Reduce(int& num, int& denom){
 	int low;
 	
